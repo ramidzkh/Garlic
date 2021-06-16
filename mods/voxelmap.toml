@@ -1,0 +1,19 @@
+name = "VoxelMap"
+filename = "forgemod_VoxelMap-1.9.28_for_1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3029/445/forgemod_VoxelMap-1.9.28_for_1.12.2.jar"
+hash-format = "murmur2"
+hash = "3044272212"
+
+[option]
+optional = true
+default = false
+description = "A minimap and worldmap. Don't use it with JourneyMap"
+
+[update]
+[update.curseforge]
+file-id = 3029445
+project-id = 225179
+release-channel = "beta"

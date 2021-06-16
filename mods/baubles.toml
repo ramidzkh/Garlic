@@ -1,0 +1,14 @@
+name = "Baubles"
+filename = "Baubles-1.12-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar"
+hash-format = "murmur2"
+hash = "4247051032"
+
+[update]
+[update.curseforge]
+file-id = 2518667
+project-id = 227083
+release-channel = "beta"

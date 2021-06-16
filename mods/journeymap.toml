@@ -1,0 +1,19 @@
+name = "JourneyMap"
+filename = "journeymap-1.12.2-5.7.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2916/2/journeymap-1.12.2-5.7.1.jar"
+hash-format = "murmur2"
+hash = "1076064603"
+
+[option]
+optional = true
+default = true
+description = "A minimap and worldmap. Don't use it with VoxelMap"
+
+[update]
+[update.curseforge]
+file-id = 2916002
+project-id = 32274
+release-channel = "beta"

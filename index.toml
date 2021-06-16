@@ -11,6 +11,16 @@ hash = "4294eab4a53211921fa5ed9599cbdd05e7532d99dd7d332bcfd819c13d484926"
 metafile = true
 
 [[files]]
+file = "mods/baubles.toml"
+hash = "c753e5872ef229ff88ad5e1e0aeee78a8db2084017acee1bf9a45c4807037250"
+metafile = true
+
+[[files]]
+file = "mods/botania.toml"
+hash = "084eb0acd1a07f8847b1ac3ff3d0402cd41a181c3354f6c105dadd7263040195"
+metafile = true
+
+[[files]]
 file = "mods/brandons-core.toml"
 hash = "2d1d09f8f2b15b97c2434a5759f275099a1efd808b3dc1388c00eba069bbf535"
 metafile = true
@@ -86,6 +96,11 @@ hash = "a13e7ffb803c1864cbb515a5511300f2a70c0f344455b0e501c59fe1225baa27"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.toml"
+hash = "2d2eec0ccd50de271743af2565c050aafdddf63efcfac6c215396dcc736bb2c2"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.toml"
 hash = "763a688ee77550d2405ef3af861598059fa6b5dfd2f2cb2df6c405953363cee5"
 metafile = true
@@ -148,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.toml"
 hash = "114d598bc70613705e28c91683c19a0f81b054ba4a36b096a799e44fc2771374"
+metafile = true
+
+[[files]]
+file = "mods/voxelmap.toml"
+hash = "b2932365665f5119e9a3af2bd6c34cd8ee7a1027188c7c7a748d164355734ec9"
 metafile = true
 
 [[files]]
