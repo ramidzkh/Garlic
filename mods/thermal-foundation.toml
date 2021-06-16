@@ -1,0 +1,14 @@
+name = "Thermal Foundation"
+filename = "ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2926/428/ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
+hash-format = "murmur2"
+hash = "3785001149"
+
+[update]
+[update.curseforge]
+file-id = 2926428
+project-id = 222880
+release-channel = "beta"

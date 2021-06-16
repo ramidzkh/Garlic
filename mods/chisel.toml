@@ -1,0 +1,14 @@
+name = "Chisel"
+filename = "Chisel-MC1.12.2-1.0.2.45.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2915/375/Chisel-MC1.12.2-1.0.2.45.jar"
+hash-format = "murmur2"
+hash = "2429064344"
+
+[update]
+[update.curseforge]
+file-id = 2915375
+project-id = 235279
+release-channel = "beta"

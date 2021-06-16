@@ -1,0 +1,14 @@
+name = "CoFH World"
+filename = "CoFHWorld-1.12.2-1.4.0.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2920/434/CoFHWorld-1.12.2-1.4.0.1-universal.jar"
+hash-format = "murmur2"
+hash = "928719472"
+
+[update]
+[update.curseforge]
+file-id = 2920434
+project-id = 271384
+release-channel = "beta"

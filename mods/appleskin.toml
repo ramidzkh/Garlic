@@ -1,0 +1,14 @@
+name = "AppleSkin"
+filename = "AppleSkin-mc1.12-1.0.14.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2987/247/AppleSkin-mc1.12-1.0.14.jar"
+hash-format = "murmur2"
+hash = "1189087403"
+
+[update]
+[update.curseforge]
+file-id = 2987247
+project-id = 248787
+release-channel = "beta"

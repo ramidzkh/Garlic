@@ -1,0 +1,156 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "1717e089fb5b41114e99afa8709b6e8415ebff1192a3fbd70dbee90c05429b21"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.toml"
+hash = "4294eab4a53211921fa5ed9599cbdd05e7532d99dd7d332bcfd819c13d484926"
+metafile = true
+
+[[files]]
+file = "mods/brandons-core.toml"
+hash = "2d1d09f8f2b15b97c2434a5759f275099a1efd808b3dc1388c00eba069bbf535"
+metafile = true
+
+[[files]]
+file = "mods/chisel.toml"
+hash = "52435fe963476b68456801103ac73a53d31de8af03df7d3c1fc069c88dda9627"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.toml"
+hash = "75f02a3259510376753cdb714e30430d82db0011e84c0b9b05deb5cb4d2ddead"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.toml"
+hash = "41c389de8c99e7861932cdf35ad32b68cbdce698904c8bc294622fac5c7ccaa4"
+metafile = true
+
+[[files]]
+file = "mods/cofh-world.toml"
+hash = "addeba42e92d45f278fa79b94f3b359b5f9ce69eee7438ef7480aa3764bda0e1"
+metafile = true
+
+[[files]]
+file = "mods/ctm.toml"
+hash = "103696c67e5b9720d25ea953b8d3abc25c12db84da61a6e9b7d59232dfed1697"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.toml"
+hash = "57ff8d1b91abeb5f6e57e905a31c28c12bbb05391ead15031c7d95e01b2a825c"
+metafile = true
+
+[[files]]
+file = "mods/ender-io.toml"
+hash = "6180f3878da4370070bc2f09eae365bf3f91ba525e7e95171369712edcee3131"
+metafile = true
+
+[[files]]
+file = "mods/endercore.toml"
+hash = "29fab396bfc16400541918c2afa8d504da54046639e6555d8f52dbd02de72923"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.toml"
+hash = "a36fd587721df70466deb48016475df9c609e12e1692e34f05faeef6364ce533"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-legacy-forge.toml"
+hash = "5ab70de3d089cfd2814d387d3d43919fb7df572b9f3b2a2629ea089b5f47be0a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-utilities-forge.toml"
+hash = "7b3566780afb69e94d886b4f50b11551e9ddd7ebfd3d856cad84217520815c46"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.toml"
+hash = "d24d12b6715372c0a092e35a977a517a378bb7178d6c8f919592f4ee5b7df52c"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks.toml"
+hash = "6d27cdf8b28caadd52e995fc9526e237715260dcb98b9c46554c436dbf1ac7c3"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "a13e7ffb803c1864cbb515a5511300f2a70c0f344455b0e501c59fe1225baa27"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.toml"
+hash = "763a688ee77550d2405ef3af861598059fa6b5dfd2f2cb2df6c405953363cee5"
+metafile = true
+
+[[files]]
+file = "mods/mantle.toml"
+hash = "750e15bc8a8092318669fda0b179892a1be2ac65dc37e888d6586543e31c5471"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.toml"
+hash = "6eada4314fd82fe43f23670ce92041ba0887d5a1bf050fd84a01e62f6d3cc135"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.toml"
+hash = "636b9ba90d3f0b7d739586d0660ce9c8c5ff7d032aabb855a73bd4c1258ae2e2"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-forge.toml"
+hash = "19e54f56be909d7236e88943c3faada5b3388e5438a5b8e0507d8306f6ceb408"
+metafile = true
+
+[[files]]
+file = "mods/redstone-flux.toml"
+hash = "2d46c70dfa56a3fcb4c789616b9da9240b89a2c5c2affdf75790f6a624bca726"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.toml"
+hash = "3c2df3b7a9631b74662ab4db6874e2ea466f9de1ffea33b59f230b7010e0513d"
+metafile = true
+
+[[files]]
+file = "mods/rftools.toml"
+hash = "14f323e28af2f71bd00eaaafa43d2856e7e33080402b255920af79319274ab27"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-cities.toml"
+hash = "e5278b3abbffe6a87abc9563d51a2f7537d925e23bbc20d392052afad7af5e1f"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.toml"
+hash = "d43bea3e65cd2ac34bd918091846f16bafed4099c0fac95a023d32a33e547b64"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.toml"
+hash = "34a802e247e08ec1a37fea54e3e07322b12b7654852162e81e4578b94e8e47c2"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.toml"
+hash = "b725577f37462da10dc185bcc14228d3b1e5de5ce06a852ebfefc8c507e82571"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.toml"
+hash = "114d598bc70613705e28c91683c19a0f81b054ba4a36b096a799e44fc2771374"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.toml"
+hash = "2e06de2c077491c862f8db03b9855d94c1701cf3ae901a0950984a754efe220b"
+metafile = true

@@ -1,0 +1,12 @@
+name = "Garlic"
+author = "ramidzkh, GKasparov"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "06bfff5256e6c24e6e2c94438253dadc2e9d4580ca9690f47892c50e232361b2"
+
+[versions]
+forge = "14.23.5.2855"
+minecraft = "1.12.2"

@@ -1,0 +1,14 @@
+name = "Redstone Flux"
+filename = "RedstoneFlux-1.12-2.1.1.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2920/436/RedstoneFlux-1.12-2.1.1.1-universal.jar"
+hash-format = "murmur2"
+hash = "1893256567"
+
+[update]
+[update.curseforge]
+file-id = 2920436
+project-id = 270789
+release-channel = "beta"

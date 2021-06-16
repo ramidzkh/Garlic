@@ -1,0 +1,14 @@
+name = "EnderCore"
+filename = "EnderCore-1.12.2-0.5.76.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2972/849/EnderCore-1.12.2-0.5.76.jar"
+hash-format = "murmur2"
+hash = "3431674564"
+
+[update]
+[update.curseforge]
+file-id = 2972849
+project-id = 231868
+release-channel = "beta"

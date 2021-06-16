@@ -1,0 +1,14 @@
+name = "Phosphor (Forge)"
+filename = "phosphor-forge-mc1.12.2-0.2.7-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2919/497/phosphor-forge-mc1.12.2-0.2.7-universal.jar"
+hash-format = "murmur2"
+hash = "1094421476"
+
+[update]
+[update.curseforge]
+file-id = 2919497
+project-id = 318255
+release-channel = "beta"

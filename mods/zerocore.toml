@@ -1,0 +1,14 @@
+name = "ZeroCore 2"
+filename = "zerocore-1.12.2-0.1.2.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3194/743/zerocore-1.12.2-0.1.2.9.jar"
+hash-format = "murmur2"
+hash = "1670714634"
+
+[update]
+[update.curseforge]
+file-id = 3194743
+project-id = 247921
+release-channel = "beta"

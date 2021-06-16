@@ -1,0 +1,14 @@
+name = "The Lost Cities"
+filename = "lostcities-1.12-2.0.22.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2861/574/lostcities-1.12-2.0.22.jar"
+hash-format = "murmur2"
+hash = "1290140317"
+
+[update]
+[update.curseforge]
+file-id = 2861574
+project-id = 269024
+release-channel = "beta"

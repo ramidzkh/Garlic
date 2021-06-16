@@ -1,0 +1,14 @@
+name = "CoFH Core"
+filename = "CoFHCore-1.12.2-4.6.6.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2920/433/CoFHCore-1.12.2-4.6.6.1-universal.jar"
+hash-format = "murmur2"
+hash = "3315557568"
+
+[update]
+[update.curseforge]
+file-id = 2920433
+project-id = 69162
+release-channel = "beta"

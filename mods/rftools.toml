@@ -1,0 +1,14 @@
+name = "RFTools"
+filename = "rftools-1.12-7.73.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2861/573/rftools-1.12-7.73.jar"
+hash-format = "murmur2"
+hash = "2954177313"
+
+[update]
+[update.curseforge]
+file-id = 2861573
+project-id = 224641
+release-channel = "beta"

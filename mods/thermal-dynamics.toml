@@ -1,0 +1,14 @@
+name = "Thermal Dynamics"
+filename = "ThermalDynamics-1.12.2-2.5.6.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2920/505/ThermalDynamics-1.12.2-2.5.6.1-universal.jar"
+hash-format = "murmur2"
+hash = "2554678431"
+
+[update]
+[update.curseforge]
+file-id = 2920505
+project-id = 227443
+release-channel = "beta"

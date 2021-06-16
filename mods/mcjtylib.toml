@@ -1,0 +1,14 @@
+name = "McJtyLib"
+filename = "mcjtylib-1.12-3.5.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2745/846/mcjtylib-1.12-3.5.4.jar"
+hash-format = "murmur2"
+hash = "285741512"
+
+[update]
+[update.curseforge]
+file-id = 2745846
+project-id = 233105
+release-channel = "beta"
