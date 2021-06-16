@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cofh/world/yellorite_ore.json"
+hash = "ac0163e71c8ee35d35bc9a7129a6c56b4f9a75ddb366669e38fa3b6de8c49ba3"
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "1717e089fb5b41114e99afa8709b6e8415ebff1192a3fbd70dbee90c05429b21"
 metafile = true
