@@ -120,6 +120,11 @@ hash = "6eada4314fd82fe43f23670ce92041ba0887d5a1bf050fd84a01e62f6d3cc135"
 metafile = true
 
 [[files]]
+file = "mods/more-overlays.toml"
+hash = "7f916424670df861b8e52c219d2b6d7709121561400529fb5586804bb8156006"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.toml"
 hash = "636b9ba90d3f0b7d739586d0660ce9c8c5ff7d032aabb855a73bd4c1258ae2e2"
 metafile = true
