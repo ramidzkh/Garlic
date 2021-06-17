@@ -30,6 +30,11 @@ hash = "2d1d09f8f2b15b97c2434a5759f275099a1efd808b3dc1388c00eba069bbf535"
 metafile = true
 
 [[files]]
+file = "mods/chameleon.toml"
+hash = "0c8fb1975d4eb96fcf5fdaf6cc0f77b2312f24bbbbea9316c424029eb9f047d6"
+metafile = true
+
+[[files]]
 file = "mods/chisel.toml"
 hash = "52435fe963476b68456801103ac73a53d31de8af03df7d3c1fc069c88dda9627"
 metafile = true
@@ -82,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-utilities-forge.toml"
 hash = "7b3566780afb69e94d886b4f50b11551e9ddd7ebfd3d856cad84217520815c46"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.toml"
+hash = "606fa0cc1c0f1695b9f445e4b0d030f403483fb9c185c4c2441142bfcb2eed31"
 metafile = true
 
 [[files]]
@@ -147,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/rftools.toml"
 hash = "14f323e28af2f71bd00eaaafa43d2856e7e33080402b255920af79319274ab27"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.toml"
+hash = "e657fcefd418fe32d8ceadc423defe57f75cc6afe11c3b9ada164794d56e5b82"
 metafile = true
 
 [[files]]
