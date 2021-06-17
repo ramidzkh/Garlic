@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphor-forge.toml"
-hash = "19e54f56be909d7236e88943c3faada5b3388e5438a5b8e0507d8306f6ceb408"
+hash = "e1999464213fe818fae918c999a67d8c5c09e951bbaee17e3841e03c928c920b"
 metafile = true
 
 [[files]]

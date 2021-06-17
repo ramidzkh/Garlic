@@ -7,6 +7,11 @@ url = "https://edge.forgecdn.net/files/2919/497/phosphor-forge-mc1.12.2-0.2.7-un
 hash-format = "murmur2"
 hash = "1094421476"
 
+[option]
+optional = true
+default = true
+description = "Optimisations. Keep this on unless you know what you're doing"
+
 [update]
 [update.curseforge]
 file-id = 2919497
