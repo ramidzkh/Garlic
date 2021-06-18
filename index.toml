@@ -145,6 +145,11 @@ hash = "e1999464213fe818fae918c999a67d8c5c09e951bbaee17e3841e03c928c920b"
 metafile = true
 
 [[files]]
+file = "mods/plusticminusbad.toml"
+hash = "567297dbc2d1ba3d4e7f49f4d236665688adc126ba1654c7389c18274fb3c010"
+metafile = true
+
+[[files]]
 file = "mods/redstone-flux.toml"
 hash = "2d46c70dfa56a3fcb4c789616b9da9240b89a2c5c2affdf75790f6a624bca726"
 metafile = true
