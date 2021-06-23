@@ -1,0 +1,14 @@
+name = "Astral Sorcery"
+filename = "astralsorcery-1.12.2-1.10.27.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3044/416/astralsorcery-1.12.2-1.10.27.jar"
+hash-format = "murmur2"
+hash = "2344180314"
+
+[update]
+[update.curseforge]
+file-id = 3044416
+project-id = 241721
+release-channel = "beta"

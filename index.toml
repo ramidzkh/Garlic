@@ -15,6 +15,11 @@ hash = "4294eab4a53211921fa5ed9599cbdd05e7532d99dd7d332bcfd819c13d484926"
 metafile = true
 
 [[files]]
+file = "mods/astral-sorcery.toml"
+hash = "31e5516da460fb467ddbdda0cb8221787ed05af35c0d35657614186813f8341b"
+metafile = true
+
+[[files]]
 file = "mods/baubles.toml"
 hash = "c753e5872ef229ff88ad5e1e0aeee78a8db2084017acee1bf9a45c4807037250"
 metafile = true
