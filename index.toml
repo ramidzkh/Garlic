@@ -35,6 +35,11 @@ hash = "2d1d09f8f2b15b97c2434a5759f275099a1efd808b3dc1388c00eba069bbf535"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.toml"
+hash = "3150612d7faf448ddf3e03b69fadb83630cbb573e46e8bcf6ceb4ff631a368a2"
+metafile = true
+
+[[files]]
 file = "mods/chameleon.toml"
 hash = "0c8fb1975d4eb96fcf5fdaf6cc0f77b2312f24bbbbea9316c424029eb9f047d6"
 metafile = true
@@ -197,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.toml"
 hash = "114d598bc70613705e28c91683c19a0f81b054ba4a36b096a799e44fc2771374"
+metafile = true
+
+[[files]]
+file = "mods/translocators-1-8.toml"
+hash = "0543a107b6fd1b7050841e6c8b4760a6fb38e0f01795b836d5c988058018e4c1"
 metafile = true
 
 [[files]]
