@@ -150,6 +150,11 @@ hash = "636b9ba90d3f0b7d739586d0660ce9c8c5ff7d032aabb855a73bd4c1258ae2e2"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.toml"
+hash = "69acb45e2b88bcd42f661822d0ecc9e21a7da06f8ec35f6289b89029880dd9f4"
+metafile = true
+
+[[files]]
 file = "mods/phosphor-forge.toml"
 hash = "e1999464213fe818fae918c999a67d8c5c09e951bbaee17e3841e03c928c920b"
 metafile = true

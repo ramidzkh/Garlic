@@ -1,0 +1,14 @@
+name = "Nature's Compass"
+filename = "NaturesCompass-1.12.2-1.8.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2893/527/NaturesCompass-1.12.2-1.8.5.jar"
+hash-format = "murmur2"
+hash = "198255722"
+
+[update]
+[update.curseforge]
+file-id = 2893527
+project-id = 252848
+release-channel = "beta"
