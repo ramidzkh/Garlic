@@ -155,6 +155,11 @@ hash = "69acb45e2b88bcd42f661822d0ecc9e21a7da06f8ec35f6289b89029880dd9f4"
 metafile = true
 
 [[files]]
+file = "mods/opencomputers.toml"
+hash = "851c192825d06e355cc870b6cf643910b4c34dd7e248a7f844f465d361609f04"
+metafile = true
+
+[[files]]
 file = "mods/phosphor-forge.toml"
 hash = "e1999464213fe818fae918c999a67d8c5c09e951bbaee17e3841e03c928c920b"
 metafile = true
