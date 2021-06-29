@@ -1,0 +1,14 @@
+name = "Super Sound Muffler: Revived"
+filename = "supersoundmuffler-revived_1.12.2_1.0.2.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2886/150/supersoundmuffler-revived_1.12.2_1.0.2.10.jar"
+hash-format = "murmur2"
+hash = "2928517051"
+
+[update]
+[update.curseforge]
+file-id = 2886150
+project-id = 363856
+release-channel = "beta"

@@ -190,6 +190,11 @@ hash = "e657fcefd418fe32d8ceadc423defe57f75cc6afe11c3b9ada164794d56e5b82"
 metafile = true
 
 [[files]]
+file = "mods/super-sound-muffler-revived.toml"
+hash = "2b69163db986b6316088fbd528e583f3f7d44715a0a2c10128ff73f4dfd71dc4"
+metafile = true
+
+[[files]]
 file = "mods/the-lost-cities.toml"
 hash = "e5278b3abbffe6a87abc9563d51a2f7537d925e23bbc20d392052afad7af5e1f"
 metafile = true
