@@ -1,0 +1,14 @@
+name = "Deep Mob Learning"
+filename = "deepmoblearning-1.12.2-2.5.4-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2968/355/deepmoblearning-1.12.2-2.5.4-universal.jar"
+hash-format = "murmur2"
+hash = "3789796399"
+
+[update]
+[update.curseforge]
+file-id = 2968355
+project-id = 284229
+release-channel = "beta"

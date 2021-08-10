@@ -1,0 +1,14 @@
+name = "The Twilight Forest"
+filename = "twilightforest-1.12.2-3.11.1021-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3051/450/twilightforest-1.12.2-3.11.1021-universal.jar"
+hash-format = "murmur2"
+hash = "3811129807"
+
+[update]
+[update.curseforge]
+file-id = 3051450
+project-id = 227639
+release-channel = "beta"

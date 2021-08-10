@@ -1,14 +1,14 @@
 name = "Mouse Tweaks"
-filename = "MouseTweaks-2.10-mc1.12.2.jar"
+filename = "MouseTweaks-2.10.1-mc1.12.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar"
+url = "https://edge.forgecdn.net/files/3359/843/MouseTweaks-2.10.1-mc1.12.2.jar"
 hash-format = "murmur2"
-hash = "533666569"
+hash = "2265859872"
 
 [update]
 [update.curseforge]
-file-id = 2671937
+file-id = 3359843
 project-id = 60089
 release-channel = "beta"

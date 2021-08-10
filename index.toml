@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/brandons-core.toml"
-hash = "2d1d09f8f2b15b97c2434a5759f275099a1efd808b3dc1388c00eba069bbf535"
+hash = "8e2f76fb3619630b5630d54f7ccc1504a2cc24e2a7e5ca3c345f3b7013cd9906"
 metafile = true
 
 [[files]]
@@ -67,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/ctm.toml"
 hash = "103696c67e5b9720d25ea953b8d3abc25c12db84da61a6e9b7d59232dfed1697"
+metafile = true
+
+[[files]]
+file = "mods/deep-mob-learning.toml"
+hash = "be96d55acb8a205430a9f2c1a62917f972da379769f1688eab65c89273c3ab9a"
 metafile = true
 
 [[files]]
@@ -146,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.toml"
-hash = "636b9ba90d3f0b7d739586d0660ce9c8c5ff7d032aabb855a73bd4c1258ae2e2"
+hash = "a686c5e131e22b3660f4082dcc897cb806d6599e1af918522989ea57cb111844"
 metafile = true
 
 [[files]]
@@ -157,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/opencomputers.toml"
 hash = "851c192825d06e355cc870b6cf643910b4c34dd7e248a7f844f465d361609f04"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.toml"
+hash = "d96d5ae1bf39565f12e5ff8a5732648d83907d31719ea489a166b420d27cb609"
 metafile = true
 
 [[files]]
@@ -197,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/the-lost-cities.toml"
 hash = "e5278b3abbffe6a87abc9563d51a2f7537d925e23bbc20d392052afad7af5e1f"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.toml"
+hash = "a9fc7efdfd27afbfbf6f268dd3f808cbf3fe1e1ed4e19000d799694ed6ff5f2a"
 metafile = true
 
 [[files]]
