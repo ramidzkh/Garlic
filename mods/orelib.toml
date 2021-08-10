@@ -1,0 +1,14 @@
+name = "OreLib"
+filename = "OreLib-1.12.2-3.6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2820/815/OreLib-1.12.2-3.6.0.1.jar"
+hash-format = "murmur2"
+hash = "3666807815"
+
+[update]
+[update.curseforge]
+file-id = 2820815
+project-id = 307806
+release-channel = "beta"

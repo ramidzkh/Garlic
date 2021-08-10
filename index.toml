@@ -5,6 +5,11 @@ file = "config/cofh/world/yellorite_ore.json"
 hash = "ac0163e71c8ee35d35bc9a7129a6c56b4f9a75ddb366669e38fa3b6de8c49ba3"
 
 [[files]]
+file = "mods/advent-of-ascension-nevermine.toml"
+hash = "2588088ce9ebc1da545201eef0df2b5fc5e5ae47e5524101d233b0052b97e942"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "1717e089fb5b41114e99afa8709b6e8415ebff1192a3fbd70dbee90c05429b21"
 metafile = true
@@ -80,6 +85,11 @@ hash = "57ff8d1b91abeb5f6e57e905a31c28c12bbb05391ead15031c7d95e01b2a825c"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-surroundings.toml"
+hash = "f10430f25e9a9c9b3296f073722c93869fa34890870fcb34921268d2d3b85559"
+metafile = true
+
+[[files]]
 file = "mods/ender-io.toml"
 hash = "6180f3878da4370070bc2f09eae365bf3f91ba525e7e95171369712edcee3131"
 metafile = true
@@ -145,6 +155,11 @@ hash = "6eada4314fd82fe43f23670ce92041ba0887d5a1bf050fd84a01e62f6d3cc135"
 metafile = true
 
 [[files]]
+file = "mods/mixinbootstrap.toml"
+hash = "d43b6c72de62e753a001f678c3e01a00003c269e669e7c5377544cf77510b5f2"
+metafile = true
+
+[[files]]
 file = "mods/more-overlays.toml"
 hash = "7f916424670df861b8e52c219d2b6d7709121561400529fb5586804bb8156006"
 metafile = true
@@ -162,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/opencomputers.toml"
 hash = "851c192825d06e355cc870b6cf643910b4c34dd7e248a7f844f465d361609f04"
+metafile = true
+
+[[files]]
+file = "mods/orelib.toml"
+hash = "22160984caf8367cef55213fd84891ed1345f85a67b1cc3996bddaca09c4ccab"
 metafile = true
 
 [[files]]

@@ -1,0 +1,14 @@
+name = "MixinBootstrap"
+filename = "MixinBootstrap-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3076/610/MixinBootstrap-1.0.5.jar"
+hash-format = "murmur2"
+hash = "2683462983"
+
+[update]
+[update.curseforge]
+file-id = 3076610
+project-id = 357178
+release-channel = "beta"
