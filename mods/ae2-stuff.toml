@@ -1,0 +1,14 @@
+name = "AE2 Stuff"
+filename = "ae2stuff-0.7.0.4-mc1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2491/32/ae2stuff-0.7.0.4-mc1.12.2.jar"
+hash-format = "murmur2"
+hash = "1154015310"
+
+[update]
+[update.curseforge]
+file-id = 2491032
+project-id = 225194
+release-channel = "beta"

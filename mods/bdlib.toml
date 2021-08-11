@@ -1,0 +1,14 @@
+name = "BdLib"
+filename = "bdlib-1.14.3.12-mc1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2518/31/bdlib-1.14.3.12-mc1.12.2.jar"
+hash-format = "murmur2"
+hash = "3424319008"
+
+[update]
+[update.curseforge]
+file-id = 2518031
+project-id = 70496
+release-channel = "beta"

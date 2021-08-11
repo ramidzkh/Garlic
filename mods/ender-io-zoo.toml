@@ -1,0 +1,14 @@
+name = "Ender IO Zoo"
+filename = "EnderIO-zoo-1.12.2-5.3.70.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3328/807/EnderIO-zoo-1.12.2-5.3.70.jar"
+hash-format = "murmur2"
+hash = "1255610695"
+
+[update]
+[update.curseforge]
+file-id = 3328807
+project-id = 303001
+release-channel = "beta"

@@ -5,6 +5,11 @@ file = "config/cofh/world/yellorite_ore.json"
 hash = "ac0163e71c8ee35d35bc9a7129a6c56b4f9a75ddb366669e38fa3b6de8c49ba3"
 
 [[files]]
+file = "mods/ae2-stuff.toml"
+hash = "ba66a3b8e1de14476341eb6cfb9c74946556927b4ff8f4616709e8618cbdd3bb"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "1717e089fb5b41114e99afa8709b6e8415ebff1192a3fbd70dbee90c05429b21"
 metafile = true
@@ -22,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/baubles.toml"
 hash = "c753e5872ef229ff88ad5e1e0aeee78a8db2084017acee1bf9a45c4807037250"
+metafile = true
+
+[[files]]
+file = "mods/bdlib.toml"
+hash = "f27e8eb3b896f8771ce9a83c7ba5bde35590a4e9ac1f019b244b5d72a7f669f5"
 metafile = true
 
 [[files]]
@@ -77,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/draconic-evolution.toml"
 hash = "57ff8d1b91abeb5f6e57e905a31c28c12bbb05391ead15031c7d95e01b2a825c"
+metafile = true
+
+[[files]]
+file = "mods/ender-io-zoo.toml"
+hash = "aec0d6822d1fd896a1f76c84ab7009b4e6274656977eb8d1408d5dffa86acf6a"
 metafile = true
 
 [[files]]
