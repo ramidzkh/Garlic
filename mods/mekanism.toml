@@ -1,0 +1,14 @@
+name = "Mekanism"
+filename = "Mekanism-1.12.2-9.8.3.390.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2835/175/Mekanism-1.12.2-9.8.3.390.jar"
+hash-format = "murmur2"
+hash = "1834306126"
+
+[update]
+[update.curseforge]
+file-id = 2835175
+project-id = 268560
+release-channel = "beta"

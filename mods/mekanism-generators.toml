@@ -1,0 +1,14 @@
+name = "Mekanism Generators"
+filename = "MekanismGenerators-1.12.2-9.8.3.390.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2835/177/MekanismGenerators-1.12.2-9.8.3.390.jar"
+hash-format = "murmur2"
+hash = "1028072734"
+
+[update]
+[update.curseforge]
+file-id = 2835177
+project-id = 268566
+release-channel = "beta"

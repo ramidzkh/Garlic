@@ -1,0 +1,14 @@
+name = "AE2 Wireless Terminal Library"
+filename = "AE2WTLib-1.12.2-1.0.34.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2830/114/AE2WTLib-1.12.2-1.0.34.jar"
+hash-format = "murmur2"
+hash = "4147363441"
+
+[update]
+[update.curseforge]
+file-id = 2830114
+project-id = 304024
+release-channel = "beta"

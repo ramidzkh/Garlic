@@ -10,6 +10,11 @@ hash = "ba66a3b8e1de14476341eb6cfb9c74946556927b4ff8f4616709e8618cbdd3bb"
 metafile = true
 
 [[files]]
+file = "mods/ae2wtlib.toml"
+hash = "7680ac00486839cef6707308453e6adc271abb1aae448aa3b62f1b12c4988e3f"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "1717e089fb5b41114e99afa8709b6e8415ebff1192a3fbd70dbee90c05429b21"
 metafile = true
@@ -105,6 +110,11 @@ hash = "29fab396bfc16400541918c2afa8d504da54046639e6555d8f52dbd02de72923"
 metafile = true
 
 [[files]]
+file = "mods/extracells2.toml"
+hash = "152b08cf8b19eaae6f174a29364ee2e66b0e8c6defbc9173ee620580905cb881"
+metafile = true
+
+[[files]]
 file = "mods/extreme-reactors.toml"
 hash = "a36fd587721df70466deb48016475df9c609e12e1692e34f05faeef6364ce533"
 metafile = true
@@ -160,6 +170,16 @@ hash = "6eada4314fd82fe43f23670ce92041ba0887d5a1bf050fd84a01e62f6d3cc135"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.toml"
+hash = "4b6d9002f2cbbc1494432dff85fb94bd7147c4fe0c97d4b95df7399f613976f3"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.toml"
+hash = "8d7c98449e6ecebe85cfbe07555f958605878d35f14849ab9face0a41774bd56"
+metafile = true
+
+[[files]]
 file = "mods/more-overlays.toml"
 hash = "7f916424670df861b8e52c219d2b6d7709121561400529fb5586804bb8156006"
 metafile = true
@@ -177,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/opencomputers.toml"
 hash = "851c192825d06e355cc870b6cf643910b4c34dd7e248a7f844f465d361609f04"
+metafile = true
+
+[[files]]
+file = "mods/p455w0rds-library.toml"
+hash = "b9b65bf81850b6586eb09df098a8c61d786e30ebb1b9b25c2ec9548abb6df34c"
 metafile = true
 
 [[files]]
@@ -257,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/voxelmap.toml"
 hash = "b2932365665f5119e9a3af2bd6c34cd8ee7a1027188c7c7a748d164355734ec9"
+metafile = true
+
+[[files]]
+file = "mods/wireless-crafting-terminal.toml"
+hash = "30c41ad809cc3fd695a2377ad9fdf7ee313bcc1350cb3b987a4abf0f845ba343"
 metafile = true
 
 [[files]]

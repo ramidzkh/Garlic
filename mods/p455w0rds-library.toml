@@ -1,0 +1,14 @@
+name = "p455w0rd's Library"
+filename = "p455w0rdslib-1.12.2-2.3.161.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2830/265/p455w0rdslib-1.12.2-2.3.161.jar"
+hash-format = "murmur2"
+hash = "4127400724"
+
+[update]
+[update.curseforge]
+file-id = 2830265
+project-id = 255232
+release-channel = "beta"
